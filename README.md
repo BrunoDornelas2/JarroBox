@@ -2,6 +2,10 @@
 
 Bem-vindo ao app para desktop para armazenar as informações quantitativas do que desejar!
 ---
+# Colaboradores
+
+- [Michelangelo Morais](https://github.com/Mickeeyym)- Desenvolvimento do Backend
+
 
 ### **Baixe o app**
 
